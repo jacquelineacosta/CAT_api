@@ -1,4 +1,4 @@
-const url = "https://api.thecatapi.com/v1/images/search?limit=10"
+const url = "https://api.thecatapi.com/v1/images/search?api_key=live_bhmyt8PBYmAulAddwrO3Ht6R5Gkcv1HeUMqhhaRr1FNP65lgE41jQULGMu5W0wkR"
 
 const section = document.querySelector('.container')
 const button = document.querySelector('.btn')
